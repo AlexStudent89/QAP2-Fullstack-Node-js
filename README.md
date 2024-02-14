@@ -13,7 +13,7 @@ This project implements a multi-route HTTP server in Node.js without using exter
 - Task #2: Read HTML files from the 'views' folder
 - Task #3: Identify events and write to console
 
-## Additional Features (With Distinction)
+## Additional Features
 
 - User Story 1: Enhanced event logging to console and disk
 - User Story 2: Daily information route using external NPM packages
