@@ -1,0 +1,2 @@
+[2024-02-11 10:30:15] 404 - Not Found: /missing-page
+[2024-02-11 12:45:22] 500 - Internal Server Error: /some-error-route

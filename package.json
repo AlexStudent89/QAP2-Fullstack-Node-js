@@ -1,0 +1,17 @@
+{
+    "name": "node-http-server",
+    "version": "1.0.0",
+    "description": "Multi-route http server with Node.js",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Alex",
+    "dependencies": {
+        "dinosaurs": "^1.2.1",
+        "events": "^3.3.0",
+        
+        "date-fns": "^3.3.1",
+        "uuid": "^9.0.1"
+    }
+}
