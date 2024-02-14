@@ -21,4 +21,4 @@ This project implements a multi-route HTTP server in Node.js without using exter
 
 ## Author
 
-Alex
+Alex Ewida
